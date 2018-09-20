@@ -1,0 +1,4 @@
+visited countries
+1.norway
+2.denmark
+3.spain
